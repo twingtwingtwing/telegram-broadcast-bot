@@ -1,1 +1,1 @@
-pyTelegramBotAPI==4.14.0
+# Telegram Broadcast Bot
